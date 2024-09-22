@@ -5,12 +5,19 @@ Still in alpha! Can be bugs!
 
 # Apps
 DE: Hyprland
+
 Terminal: kitty
+
 Browser: Chromuim
+
 Music MGR: Spotify + Spicitefy
+
 notification center: SwayNC
+
 logout MGR: WLogout
+
 Screenshot MGR: HyprShot
+
 Color picker: HyprPicker
 
 # Binds
