@@ -21,4 +21,4 @@ Kando: CTRL + Mouse middle
 
 # Install
 no install script, sorry!
-also u cant download it uses
+also u cant download .config bcs author is soooo lazy to release config (sorry)
