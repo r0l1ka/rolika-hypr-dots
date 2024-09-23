@@ -1,7 +1,7 @@
 # violet/hypr dots | 0.1
 or rlk/hypr dots
 
-![image](https://github.com/user-attachments/assets/1e8d4197-17ed-44a1-bb98-94e4ef09d9af)
+![image](https://github.com/user-attachments/assets/95aeb796-93ac-4ad7-a5bf-55b4a2993533)
 
 Still in alpha! Can be bugs!
 
