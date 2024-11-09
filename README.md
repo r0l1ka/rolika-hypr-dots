@@ -19,6 +19,7 @@ Best config for now
 + Screenshot MGR: Hyprshot
 + Color picker: Hyprpicker
 + Widgets: Fabric
+
 Also uses Kando
 
 # Install
