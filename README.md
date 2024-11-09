@@ -27,9 +27,10 @@ Alpha IS NOT REALEASE. not done yet
 
 No install script for now.
 
-+ .config    | put in ~/
-+ .icons     | put in ~/
-+ Wallpapers | put in ~/
++ [Allinone](https://github.com/r0l1ka/rolika-hypr-dots/releases/download/Alpha/v.dots.zip) | put all files to ~/
++ [.config](https://github.com/r0l1ka/rolika-hypr-dots/releases/download/Alpha/v.dots.-.config.zip)    | put in ~/
++ [.icons](https://github.com/r0l1ka/rolika-hypr-dots/releases/download/Alpha/v.dots.-.icons.zip)     | put in ~/
++ [Wallpapers](https://github.com/r0l1ka/rolika-hypr-dots/releases/download/Alpha/v.dots.-.wallpapers.zip) | put in ~/
 
 # To-Do list
 + Bar
