@@ -13,11 +13,13 @@ Best config for now
 + Terminal: kitty
 + Browser: Chromuim
 + Music MGR: Spotify + Spicitefy
++ File Manager: Nautilus
 + Notification Center: SwayNC
 + Logout: WLogout
 + Screenshot MGR: Hyprshot
 + Color picker: Hyprpicker
 + Widgets: Fabric
+Also uses Kando
 
 # Install
 Alpha IS NOT REALEASE. not done yet
