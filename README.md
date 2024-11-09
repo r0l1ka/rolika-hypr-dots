@@ -30,6 +30,8 @@ No install script for now.
 
 # To-Do list
 + Bar
++ rofi config
+
 + Openable sidebar (with Fabric)
 
 "Concept design >"
