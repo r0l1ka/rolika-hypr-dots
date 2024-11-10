@@ -5,8 +5,9 @@
 
 ![image](https://github.com/user-attachments/assets/dfc096c0-5ad3-4068-8c8d-8f78da19c17c)
 
-
-Best config for now
+<div align="center">
+<h3>Best config for now.</h3>
+</div>
 
 ## Dependencies
 Based on <img height="14" width="14" src="https://avatars.githubusercontent.com/u/107882187?s=200&v=4" /> [Hyprland](https://hyprland.org/). An independent tiling Wayland compositor written in C++.
