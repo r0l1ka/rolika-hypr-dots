@@ -12,7 +12,7 @@ Best config for now
 + DE: Hyprland
 + Bar: Fabric
 + Terminal: kitty
-+ Browser: Chromuim
++ Browser: Chromium
 + Music MGR: Spotify + Spicitefy
 + File Manager: Nautilus
 + Notification Center: SwayNC
