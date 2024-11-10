@@ -32,15 +32,26 @@
 <h1>Download + Install</h1>
 </div>
 
-**Alpha IS NOT REALEASE. not done yet**
+**IN ALPHA. not done yet**
+
++ **Script**
+
+See [script]()
+
+**No auto download + set and install script for now.**
+
++ **Manual (not recommended)**
 
 **1.** Install dependencies | Arch (pacman + yay)
 ```
 sudo pacman -S hyprland kitty chromium spotify nautilus swaync wlogout hyprshot hyprpicker
+yay -S latr
 ```
 **2.** Download [dots](https://github.com/r0l1ka/rolika-hypr-dots/releases/download/Alpha/v.dots.zip) and put to ~
+```
+git clone https://github.com/r0l1ka/rolika-hypr-dots/releases/download/Alpha/v.dots.zip
 
-**No auto download + set and install script for now.**
+```
 
 <div>
 <h1>To-do list</h1>
