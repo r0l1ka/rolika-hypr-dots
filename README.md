@@ -20,7 +20,7 @@ Best config for now
 + Color picker: Hyprpicker
 + Widgets: Fabric
 
-Also uses Kando
+Also uses [Kando](https://github.com/kando-menu/kando)
 
 # Install
 Alpha IS NOT REALEASE. not done yet
