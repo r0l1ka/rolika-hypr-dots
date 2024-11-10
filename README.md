@@ -8,7 +8,7 @@ STILL IN ALPHA. see To-Do list
 
 Best config for now
 
-# Programms
+# Used app's
 + DE: [Hyprland](https://hyprland.org/)
 + Bar: [Fabric](https://github.com/Fabric-Development/fabric)
 + Terminal: [kitty](https://github.com/kovidgoyal/kitty)
@@ -41,7 +41,7 @@ Tested Environment | Status | Notes
 
 Also uses [Kando](https://github.com/kando-menu/kando)
 
-# Install
+# Download + Install
 Alpha IS NOT REALEASE. not done yet
 
 No install script for now.
