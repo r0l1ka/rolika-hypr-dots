@@ -1,5 +1,7 @@
-# v/dots | A-0.3
-or violet/hypr dots
+<div align="center">
+<h1>v/dots | A-0.3</h1>
+<h3>or violet/hypr dots</h3>
+</div>
 
 STILL IN ALPHA. see To-Do list
 
