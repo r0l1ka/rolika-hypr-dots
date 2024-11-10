@@ -3,7 +3,8 @@ or violet/hypr dots
 
 STILL IN ALPHA. see To-Do list
 
-![image]https://github.com/user-attachments/assets/95aeb796-93ac-4ad7-a5bf-55b4a2993533)
+![image](https://github.com/user-attachments/assets/dfc096c0-5ad3-4068-8c8d-8f78da19c17c)
+
 
 Best config for now
 
