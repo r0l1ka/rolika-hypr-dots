@@ -27,15 +27,20 @@
 | Color picker | <img height="14" width="14" src="https://avatars.githubusercontent.com/u/107882187?s=200&v=4" /> [Hyprpicker](https://github.com/hyprwm/hyprpicker) |
 | Pie-Menu | <img height="14" width="14" src="https://avatars.githubusercontent.com/u/130886533?s=200&v=4" /> [Kando](https://github.com/kando-menu/kando) |
 
+
+
 <div>
 <h1>Download + Install</h1>
 </div>
 
 **IN ALPHA. not done yet**
 
+
 <h2>Script</h2>
 
-**No auto download + set and install script for now.**
+```
+No auto download + set and install script for now.
+```
 
 See [script]()
 
@@ -43,11 +48,11 @@ See [script]()
 <h2>Manual (not recommended)</h2>
 
 **1.** Install dependencies | Arch (pacman + yay)
-
 ```
 sudo pacman -S hyprland kitty chromium spotify nautilus swaync wlogout hyprshot hyprpicker
 yay -S latr
 ```
+
 **2.** Download [dots](https://github.com/r0l1ka/rolika-hypr-dots/releases/download/Alpha/v.dots.zip) and put to ~
 ```
 git clone https://github.com/r0l1ka/rolika-hypr-dots/releases/download/Alpha/v.dots.zip; cd v.dots
