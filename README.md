@@ -31,6 +31,8 @@
 <h1>Download + Install</h1>
 </div>
 
+<p>!!! AUTHOR IS NOT AN PROGRAMMER !!!</p>
+
 **IN ALPHA. not done yet**
 
 + **Script**
