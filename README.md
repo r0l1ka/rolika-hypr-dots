@@ -13,13 +13,31 @@ Best config for now
 + Bar: [Fabric](https://github.com/Fabric-Development/fabric)
 + Terminal: [kitty](https://github.com/kovidgoyal/kitty)
 + Browser: [Chromium](https://www.chromium.org/getting-involved/download-chromium/)
-+ Music MGR: Spotify + [Spicitefy](https://spicetify.app) (Theme for spotify)
++ Music MGR: Spotify + [Spicitefy (Theme for spotify)](https://spicetify.app)
 + File Manager: [Nautilus](https://apps.gnome.org/ru/Nautilus/)
 + Notification Center: [SwayNC](https://github.com/ErikReider/SwayNotificationCenter)
 + Logout: [WLogout](https://github.com/ArtsyMacaw/wlogout)
 + Screenshot MGR: Hyprshot
 + Color picker: [Hyprpicker](https://github.com/hyprwm/hyprpicker)
 + Widgets: [Fabric](https://github.com/Fabric-Development/fabric)
+Tested Environment | Status | Notes
+:-- | :---: | ---
+<img height="14" width="14" src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Windows_logo_-_2021_%28Black%29.svg" /> Windows | :heavy_check_mark: |
+<img height="14" width="14" src="https://cdn.simpleicons.org/apple" /> macOS | :heavy_check_mark: |
+<img height="14" width="14" src="https://cdn.simpleicons.org/linux/black" /> GNOME / X11 | :heavy_check_mark: |
+<img height="14" width="14" src="https://cdn.simpleicons.org/linux/black" /> GNOME / Wayland | :heavy_check_mark: | Requires [adapter GNOME Shell extension](https://github.com/kando-menu/gnome-shell-integration) which provides a DBus interface for Kando to communicate with.
+<img height="14" width="14" src="https://cdn.simpleicons.org/linux/black" /> KDE / X11 | :heavy_check_mark: |
+<img height="14" width="14" src="https://cdn.simpleicons.org/linux/black" /> KDE / Wayland | :heavy_check_mark: | Works both on Plasma 5 and Plasma 6. See [platform-specific notes](docs/installing.md#platform-specific-notes) for some details.
+<img height="14" width="14" src="https://cdn.simpleicons.org/linux/black" /> Hyprland | :heavy_check_mark: | See [platform-specific notes](docs/installing.md#platform-specific-notes) for some details.
+<img height="14" width="14" src="https://cdn.simpleicons.org/linux/black" /> Cinnamon | :heavy_check_mark: |
+<img height="14" width="14" src="https://cdn.simpleicons.org/linux/black" /> XFCE | :heavy_check_mark: |
+<img height="14" width="14" src="https://cdn.simpleicons.org/linux/black" /> MATE | :heavy_check_mark: |
+<img height="14" width="14" src="https://cdn.simpleicons.org/linux/black" /> Budgie | :heavy_check_mark: |
+<img height="14" width="14" src="https://cdn.simpleicons.org/linux/black" /> LXQt | :heavy_check_mark: |
+<img height="14" width="14" src="https://cdn.simpleicons.org/linux/black" /> LXDE | :heavy_check_mark: | Requires a compositor for the transparency to work.
+<img height="14" width="14" src="https://cdn.simpleicons.org/linux/black" /> Openbox | :heavy_check_mark: | Requires a compositor for the transparency to work.
+<img height="14" width="14" src="https://cdn.simpleicons.org/linux/black" /> i3 | :heavy_check_mark: | Requires a compositor for the transparency to work.
+<img height="14" width="14" src="https://cdn.simpleicons.org/linux/black" /> dusk | :heavy_check_mark: | Requires a compositor for the transparency to work. See [platform-specific notes](docs/installing.md#platform-specific-notes) for some details.
 
 Also uses [Kando](https://github.com/kando-menu/kando)
 
