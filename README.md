@@ -15,7 +15,7 @@
 </div>
 
 <div align="center">
-<h3>Based on <img height="14" width="14" src="https://avatars.githubusercontent.com/u/107882187?s=200&v=4" /> [**Hyprland**](https://hyprland.org/), an independent tiling [**Wayland**](https://wayland.freedesktop.org/) compositor written in C++.</h3>
+<h3>Based on <img height="14" width="14" src="https://avatars.githubusercontent.com/u/107882187?s=200&v=4" /> <a href="https://hyprland.org/">Hyprland</a>, an independent tiling <a href="https://wayland.freedesktop.org/">Wayland</a> compositor written in C++.</h3>
 </div>
 
 | **Config uses** | **Description** |
