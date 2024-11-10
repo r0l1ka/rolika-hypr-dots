@@ -1,4 +1,4 @@
-# v/dots | A-0.3
+# v/dots | A-0.3 (11.10.24)
 or violet/hypr dots
 
 STILL IN ALPHA. see To-Do list
