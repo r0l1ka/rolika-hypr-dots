@@ -17,7 +17,7 @@ Best config for now
 + File Manager: [Nautilus](https://apps.gnome.org/ru/Nautilus/)
 + Notification Center: [SwayNC](https://github.com/ErikReider/SwayNotificationCenter)
 + Logout: [WLogout](https://github.com/ArtsyMacaw/wlogout)
-+ Screenshot MGR: Hyprshot
++ Screenshot MGR: [Hyprshot](https://github.com/Gustash/Hyprshot)
 + Color picker: [Hyprpicker](https://github.com/hyprwm/hyprpicker)
 + Widgets: [Fabric](https://github.com/Fabric-Development/fabric)
 Tested Environment | Status | Notes
