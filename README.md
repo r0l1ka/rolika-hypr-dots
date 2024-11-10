@@ -13,7 +13,7 @@ Best config for now
 + Bar: [Fabric](https://github.com/Fabric-Development/fabric)
 + Terminal: [kitty](https://github.com/kovidgoyal/kitty)
 + Browser: [Chromium](https://www.chromium.org/getting-involved/download-chromium/)
-+ Music MGR: Spotify + [Spicitefy (Theme for spotify)](https://spicetify.app)
++ Music MGR: Spotify + [Spicitefy](https://spicetify.app) (Theme for spotify)
 + File Manager: [Nautilus](https://apps.gnome.org/ru/Nautilus/)
 + Notification Center: [SwayNC](https://github.com/ErikReider/SwayNotificationCenter)
 + Logout: [WLogout](https://github.com/ArtsyMacaw/wlogout)
