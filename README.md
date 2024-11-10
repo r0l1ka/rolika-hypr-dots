@@ -62,4 +62,4 @@ git clone https://github.com/r0l1ka/rolika-hypr-dots/releases/download/Alpha/v.d
 
 photos
 
-+ rofi config
++ **rofi config**
