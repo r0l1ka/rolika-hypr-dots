@@ -8,40 +8,22 @@ STILL IN ALPHA. see To-Do list
 
 Best config for now
 
-# Used app's
-+ DE: [Hyprland](https://hyprland.org/)
-+ Bar: [Fabric](https://github.com/Fabric-Development/fabric)
-+ Terminal: [kitty](https://github.com/kovidgoyal/kitty)
-+ Browser: [Chromium](https://www.chromium.org/getting-involved/download-chromium/)
-+ Music MGR: Spotify + [Spicitefy (Theme for spotify)](https://spicetify.app)
-+ File Manager: [Nautilus](https://apps.gnome.org/ru/Nautilus/)
-+ Notification Center: [SwayNC](https://github.com/ErikReider/SwayNotificationCenter)
-+ Logout: [WLogout](https://github.com/ArtsyMacaw/wlogout)
-+ Screenshot MGR: [Hyprshot](https://github.com/Gustash/Hyprshot)
-+ Color picker: [Hyprpicker](https://github.com/hyprwm/hyprpicker)
-+ Widgets: [Fabric](https://github.com/Fabric-Development/fabric)
-Tested Environment | Status | Notes
-:-- | :---: | ---
-<img height="14" width="14" src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Windows_logo_-_2021_%28Black%29.svg" /> Windows | :heavy_check_mark: |
-<img height="14" width="14" src="https://cdn.simpleicons.org/apple" /> macOS | :heavy_check_mark: |
-<img height="14" width="14" src="https://cdn.simpleicons.org/linux/black" /> GNOME / X11 | :heavy_check_mark: |
-<img height="14" width="14" src="https://cdn.simpleicons.org/linux/black" /> GNOME / Wayland | :heavy_check_mark: | Requires [adapter GNOME Shell extension](https://github.com/kando-menu/gnome-shell-integration) which provides a DBus interface for Kando to communicate with.
-<img height="14" width="14" src="https://cdn.simpleicons.org/linux/black" /> KDE / X11 | :heavy_check_mark: |
-<img height="14" width="14" src="https://cdn.simpleicons.org/linux/black" /> KDE / Wayland | :heavy_check_mark: | Works both on Plasma 5 and Plasma 6. See [platform-specific notes](docs/installing.md#platform-specific-notes) for some details.
-<img height="14" width="14" src="https://cdn.simpleicons.org/linux/black" /> Hyprland | :heavy_check_mark: | See [platform-specific notes](docs/installing.md#platform-specific-notes) for some details.
-<img height="14" width="14" src="https://cdn.simpleicons.org/linux/black" /> Cinnamon | :heavy_check_mark: |
-<img height="14" width="14" src="https://cdn.simpleicons.org/linux/black" /> XFCE | :heavy_check_mark: |
-<img height="14" width="14" src="https://cdn.simpleicons.org/linux/black" /> MATE | :heavy_check_mark: |
-<img height="14" width="14" src="https://cdn.simpleicons.org/linux/black" /> Budgie | :heavy_check_mark: |
-<img height="14" width="14" src="https://cdn.simpleicons.org/linux/black" /> LXQt | :heavy_check_mark: |
-<img height="14" width="14" src="https://cdn.simpleicons.org/linux/black" /> LXDE | :heavy_check_mark: | Requires a compositor for the transparency to work.
-<img height="14" width="14" src="https://cdn.simpleicons.org/linux/black" /> Openbox | :heavy_check_mark: | Requires a compositor for the transparency to work.
-<img height="14" width="14" src="https://cdn.simpleicons.org/linux/black" /> i3 | :heavy_check_mark: | Requires a compositor for the transparency to work.
-<img height="14" width="14" src="https://cdn.simpleicons.org/linux/black" /> dusk | :heavy_check_mark: | Requires a compositor for the transparency to work. See [platform-specific notes](docs/installing.md#platform-specific-notes) for some details.
+## Dependencies
+| **Dependencies** | **Description** |
+|:--|:---|
+| <img height="14" width="14" src="https://avatars.githubusercontent.com/u/107882187?s=200&v=4" /> [Hyprland](https://hyprland.org/) | An independent tiling Wayland compositor written in C++. |
+| <img height="14" width="14" src="https://avatars.githubusercontent.com/u/146791241?s=200&v=4" /> [Fabric](https://github.com/Fabric-Development/fabric) | An innovative desktop widget framework for *Nix-based systems, configurable using Python! |
+| <img height="14" width="14" src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Kitty%28Terminal-emulator%29.png" /> [kitty](https://github.com/kovidgoyal/kitty) |  The fast, feature-rich, GPU based terminal emulator. |
+| <img height="14" width="14" src="https://www.chromium.org/_assets/icon-chromium-96.png" /> [Chromium](https://www.chromium.org/getting-involved/download-chromium/) | An open-source browser project that aims to build a safer, faster, and more stable way for all Internet users to experience the web. |
+| <img height="14" width="14" src="https://upload.wikimedia.org/wikipedia/commons/7/75/Spotify_icon.png" /> Spotify + [Spicitefy (Theme for spotify)](https://spicetify.app) |A  Swedish audio streaming and media service provider founded on 23 April 2006 by Daniel Ek and Martin Lorentzon. |
+| <img height="14" width="14" src="https://apps.gnome.org/icons/scalable/org.gnome.Nautilus.svg" /> [Nautilus](https://apps.gnome.org/ru/Nautilus/) | Is the official file manager for the GNOME desktop. |
+| <img height="14" width="14" src="https://cdn.simpleicons.org/linux/black" /> [SwayNC](https://github.com/ErikReider/SwayNotificationCenter) | A simple notification daemon with a GTK gui for notifications and the control center. |
+| <img height="14" width="14" src="https://cdn.simpleicons.org/linux/black" /> [WLogout](https://github.com/ArtsyMacaw/wlogout) | A wayland based logout menu. |
+| <img height="14" width="14" src="https://avatars.githubusercontent.com/u/107882187?s=200&v=4" /> [Hyprshot](https://github.com/Gustash/Hyprshot) | An utility to easily take screenshots in Hyprland using your mouse. |
+| <img height="14" width="14" src="https://avatars.githubusercontent.com/u/107882187?s=200&v=4" /> [Hyprpicker](https://github.com/hyprwm/hyprpicker) | A wlroots-compatible Wayland color picker that does not suck. |
+| <img height="14" width="14" src="https://avatars.githubusercontent.com/u/130886533?s=200&v=4" /> [Kando](https://github.com/kando-menu/kando) | A cross-platform pie menu for your desktop. |
 
-Also uses [Kando](https://github.com/kando-menu/kando)
-
-# Download + Install
+# Install
 Alpha IS NOT REALEASE. not done yet
 
 No install script for now.
