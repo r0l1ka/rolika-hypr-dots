@@ -9,10 +9,8 @@
 <h3>Based on <img height="14" width="14" src="https://avatars.githubusercontent.com/u/107882187?s=200&v=4" /> <a href="https://hyprland.org/">Hyprland</a>, an independent tiling <a href="https://wayland.freedesktop.org/">Wayland</a> compositor written in C++.</h3>
 </div>
 
-<div>
-<h1>App used</h1>
-</div>
 
+<h1>App used</h1>
 
 | **Purpose** | **App** |
 |:---|:---|
@@ -60,9 +58,11 @@ cp -r .config ~; cp -r .icons ~; cp -r Wallpapers ~
 cd ..; rm -r v.dots  # !! Dont copy this line if you want have copy of config !!
 ```
 
-<div>
+**3.** Go to `~/.config` and set up it manually
+
+
+
 <h1>To-do list</h1>
-</div>
 
 **Will be done in release**
 + **Bar**
@@ -71,3 +71,9 @@ cd ..; rm -r v.dots  # !! Dont copy this line if you want have copy of config !!
 photos
 
 + **rofi config**
+
+<h1>Other</h1>
+
+<div align="center">
+About config | About author
+</div>
