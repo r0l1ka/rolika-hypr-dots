@@ -35,9 +35,9 @@
 
 + **Script**
 
-See [script]()
-
 **No auto download + set and install script for now.**
+
+See [script]()
 
 + **Manual (not recommended)**
 
