@@ -15,7 +15,7 @@
 </div>
 
 
-| **For** | **App** |
+| **Purpose** | **App** |
 |:---|:---|
 | Terminal |  <img height="14" width="14" src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Kitty%28Terminal-emulator%29.png" /> [kitty](https://github.com/kovidgoyal/kitty) |
 | Bar | <img height="14" width="14" src="https://avatars.githubusercontent.com/u/146791241?s=200&v=4" /> [Fabric](https://github.com/Fabric-Development/fabric)
