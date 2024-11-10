@@ -25,7 +25,7 @@
 | Notif. center | <img height="14" width="14" src="https://cdn.simpleicons.org/linux/black" /> [SwayNC](https://github.com/ErikReider/SwayNotificationCenter) |
 | Power MGR | <img height="14" width="14" src="https://cdn.simpleicons.org/linux/black" /> [WLogout](https://github.com/ArtsyMacaw/wlogout) |
 | Screenshot MGR | <img height="14" width="14" src="https://avatars.githubusercontent.com/u/107882187?s=200&v=4" /> [Hyprshot](https://github.com/Gustash/Hyprshot) |
-| Color pciker | <img height="14" width="14" src="https://avatars.githubusercontent.com/u/107882187?s=200&v=4" /> [Hyprpicker](https://github.com/hyprwm/hyprpicker) |
+| Color picker | <img height="14" width="14" src="https://avatars.githubusercontent.com/u/107882187?s=200&v=4" /> [Hyprpicker](https://github.com/hyprwm/hyprpicker) |
 | Pie-Menu | <img height="14" width="14" src="https://avatars.githubusercontent.com/u/130886533?s=200&v=4" /> [Kando](https://github.com/kando-menu/kando) |
 
 <div>
