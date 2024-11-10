@@ -76,5 +76,5 @@ photos
 <h1>Other</h1>
 
 <div align="center">
-About config | About author
+[About config]() | [About author]()
 </div>
