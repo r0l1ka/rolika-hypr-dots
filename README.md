@@ -39,7 +39,7 @@ sudo pacman -S hyprland kitty chromium spotify nautilus swaync wlogout hyprshot 
 ```
 **2.** Download [dots](https://github.com/r0l1ka/rolika-hypr-dots/releases/download/Alpha/v.dots.zip) and put to ~
 
-**No auto download + install script for now.**
+**No auto download + set and install script for now.**
 <div align="center">
 <h1>To-do list</h1>
 </div>
