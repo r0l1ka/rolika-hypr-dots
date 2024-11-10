@@ -4,10 +4,6 @@
 <p>STILL IN ALPHA. see To-Do list</p>
 </div>
 
-```
-hello world
-```
-
 ![image](https://github.com/user-attachments/assets/dfc096c0-5ad3-4068-8c8d-8f78da19c17c)
 
 <div align="center">
