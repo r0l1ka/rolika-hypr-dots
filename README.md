@@ -1,16 +1,16 @@
 <div align="center">
 <h1>v/dots | A-0.3</h1>
 <h3>or violet/hypr dots.</h3>
-<p>STILL IN ALPHA. see To-Do list</p>
 </div>
 
 ![image](https://github.com/user-attachments/assets/dfc096c0-5ad3-4068-8c8d-8f78da19c17c)
 
 <div align="center">
 <h3>Based on <img height="14" width="14" src="https://avatars.githubusercontent.com/u/107882187?s=200&v=4" /> <a href="https://hyprland.org/">Hyprland</a>, an independent tiling <a href="https://wayland.freedesktop.org/">Wayland</a> compositor written in C++.</h3>
+<p>!!! AUTHOR IS NOT AN PROGRAMMER !!!</p>
 </div>
 
-<div align="center">
+<div>
 <h1>App used</h1>
 </div>
 
@@ -27,7 +27,8 @@
 | Screenshot MGR | <img height="14" width="14" src="https://avatars.githubusercontent.com/u/107882187?s=200&v=4" /> [Hyprshot](https://github.com/Gustash/Hyprshot) |
 | Color pciker | <img height="14" width="14" src="https://avatars.githubusercontent.com/u/107882187?s=200&v=4" /> [Hyprpicker](https://github.com/hyprwm/hyprpicker) |
 | Pie-Menu | <img height="14" width="14" src="https://avatars.githubusercontent.com/u/130886533?s=200&v=4" /> [Kando](https://github.com/kando-menu/kando) |
-<div align="center">
+
+<div>
 <h1>Download + Install</h1>
 </div>
 
@@ -40,13 +41,14 @@ sudo pacman -S hyprland kitty chromium spotify nautilus swaync wlogout hyprshot 
 **2.** Download [dots](https://github.com/r0l1ka/rolika-hypr-dots/releases/download/Alpha/v.dots.zip) and put to ~
 
 **No auto download + set and install script for now.**
-<div align="center">
+
+<div>
 <h1>To-do list</h1>
 </div>
 
+**Will be done in release**
 + Bar
 + rofi config
-
 + Openable sidebar (with Fabric)
 
-"Concept design >"
+Concept design >
