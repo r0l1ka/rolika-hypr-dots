@@ -27,7 +27,10 @@ Based on <img height="14" width="14" src="https://avatars.githubusercontent.com/
 | <img height="14" width="14" src="https://avatars.githubusercontent.com/u/107882187?s=200&v=4" /> [Hyprpicker](https://github.com/hyprwm/hyprpicker) | A wlroots-compatible Wayland color picker that does not suck. |
 | <img height="14" width="14" src="https://avatars.githubusercontent.com/u/130886533?s=200&v=4" /> [Kando](https://github.com/kando-menu/kando) | A cross-platform pie menu for your desktop. |
 
-# Install
+<div align="center">
+<h1>Install</h1>
+</div>
+
 Alpha IS NOT REALEASE. not done yet
 
 No install script for now.
@@ -37,7 +40,10 @@ No install script for now.
 + [.icons](https://github.com/r0l1ka/rolika-hypr-dots/releases/download/Alpha/v.dots.-.icons.zip)     | put in ~/
 + [Wallpapers](https://github.com/r0l1ka/rolika-hypr-dots/releases/download/Alpha/v.dots.-.wallpapers.zip) | put in ~/
 
-# To-Do list
+<div align="center">
+<h1>To-do list</h1>
+</div>
+
 + Bar
 + rofi config
 
