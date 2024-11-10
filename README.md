@@ -47,8 +47,9 @@ sudo pacman -S hyprland kitty chromium spotify nautilus swaync wlogout hyprshot 
 </div>
 
 **Will be done in release**
-+ Bar
-+ rofi config
-+ Openable sidebar (with Fabric)
++ **Bar**
++ **Openable sidebar (with Fabric)** | Concept design >
 
-Concept design >
+photos
+
++ rofi config
