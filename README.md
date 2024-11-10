@@ -31,15 +31,13 @@
 <h1>Download + Install</h1>
 </div>
 
-<p>!!! AUTHOR IS NOT AN PROGRAMMER !!!</p>
-
 **IN ALPHA. not done yet**
 
 + **Script**
 
-See [script]()
-
 **No auto download + set and install script for now.**
+
+See [script]()
 
 + **Manual (not recommended)**
 
