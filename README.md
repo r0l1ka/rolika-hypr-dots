@@ -36,10 +36,9 @@ No install script for now.
 # To-Do list
 + Bar
 + rofi config
-
 + Openable sidebar (with Fabric)
 
-"Concept design >"
+Concept design > (0.1 idk)
 ![hypr sidebar@1x](https://github.com/user-attachments/assets/d07c71be-6208-402d-af71-2c11c6e7fff4)
 ![hypr sidebar copy@1x](https://github.com/user-attachments/assets/83e94841-9f5a-4d37-81e9-800be20ab65a)
 ![hypr sidebar copy 3@1x](https://github.com/user-attachments/assets/641531ce-72b5-4c68-8097-d0a113cf723c)
