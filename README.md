@@ -26,7 +26,6 @@ Based on <img height="14" width="14" src="https://avatars.githubusercontent.com/
 | <img height="14" width="14" src="https://avatars.githubusercontent.com/u/107882187?s=200&v=4" /> [Hyprshot](https://github.com/Gustash/Hyprshot) | An utility to easily take screenshots in Hyprland using your mouse. |
 | <img height="14" width="14" src="https://avatars.githubusercontent.com/u/107882187?s=200&v=4" /> [Hyprpicker](https://github.com/hyprwm/hyprpicker) | A wlroots-compatible Wayland color picker that does not suck. |
 | <img height="14" width="14" src="https://avatars.githubusercontent.com/u/130886533?s=200&v=4" /> [Kando](https://github.com/kando-menu/kando) | A cross-platform pie menu for your desktop. |
-
 <div align="center">
 <h1>Install</h1>
 </div>
@@ -39,7 +38,6 @@ No install script for now.
 + [.config](https://github.com/r0l1ka/rolika-hypr-dots/releases/download/Alpha/v.dots.-.config.zip)    | put in ~/
 + [.icons](https://github.com/r0l1ka/rolika-hypr-dots/releases/download/Alpha/v.dots.-.icons.zip)     | put in ~/
 + [Wallpapers](https://github.com/r0l1ka/rolika-hypr-dots/releases/download/Alpha/v.dots.-.wallpapers.zip) | put in ~/
-
 <div align="center">
 <h1>To-do list</h1>
 </div>
