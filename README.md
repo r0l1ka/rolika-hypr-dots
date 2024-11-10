@@ -17,6 +17,7 @@
 <div align="center">
 Based on <img height="14" width="14" src="https://avatars.githubusercontent.com/u/107882187?s=200&v=4" /> [**Hyprland**](https://hyprland.org/), an independent tiling [**Wayland**](https://wayland.freedesktop.org/) compositor written in C++.
 </div>
+
 | **Config uses** | **Description** |
 |:---|:---|
 | <img height="14" width="14" src="https://avatars.githubusercontent.com/u/146791241?s=200&v=4" /> [Fabric](https://github.com/Fabric-Development/fabric) | An innovative desktop widget framework for *Nix-based systems, configurable using Python! |
