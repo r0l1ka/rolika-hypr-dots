@@ -33,13 +33,13 @@
 
 **IN ALPHA. not done yet**
 
-+ **Script**
+<h2>**Script**</h2>
 
 **No auto download + set and install script for now.**
 
 See [script]()
 
-+ **Manual (not recommended)**
+<h2>**Manual (not recommended)**</h2>
 
 **1.** Install dependencies | Arch (pacman + yay)
 ```
