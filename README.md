@@ -1,7 +1,7 @@
 <div align="center">
 <h1>v/dots | A-0.3</h1>
 <h3>or violet/hypr dots.</h3>
-<h2>STILL IN ALPHA. see To-Do list</h2>
+<p>STILL IN ALPHA. see To-Do list</p>
 </div>
 
 ![image](https://github.com/user-attachments/assets/dfc096c0-5ad3-4068-8c8d-8f78da19c17c)
