@@ -9,9 +9,9 @@
 Best config for now
 
 ## Dependencies
+Based on <img height="14" width="14" src="https://avatars.githubusercontent.com/u/107882187?s=200&v=4" /> [Hyprland](https://hyprland.org/) | An independent tiling Wayland compositor written in C++. |
 | **Config Uses** | **Description** |
 |:---|:---|
-| <img height="14" width="14" src="https://avatars.githubusercontent.com/u/107882187?s=200&v=4" /> [Hyprland](https://hyprland.org/) | An independent tiling Wayland compositor written in C++. |
 | <img height="14" width="14" src="https://avatars.githubusercontent.com/u/146791241?s=200&v=4" /> [Fabric](https://github.com/Fabric-Development/fabric) | An innovative desktop widget framework for *Nix-based systems, configurable using Python! |
 | <img height="14" width="14" src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Kitty%28Terminal-emulator%29.png" /> [kitty](https://github.com/kovidgoyal/kitty) |  The fast, feature-rich, GPU based terminal emulator. |
 | <img height="14" width="14" src="https://www.chromium.org/_assets/icon-chromium-96.png" /> [Chromium](https://www.chromium.org/getting-involved/download-chromium/) | An open-source browser project that aims to build a safer, faster, and more stable way for all Internet users to experience the web. |
