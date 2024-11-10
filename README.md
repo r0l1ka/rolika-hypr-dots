@@ -31,10 +31,9 @@
 | Color pciker | <img height="14" width="14" src="https://avatars.githubusercontent.com/u/107882187?s=200&v=4" /> [Hyprpicker](https://github.com/hyprwm/hyprpicker) |
 | Pie-Menu | <img height="14" width="14" src="https://avatars.githubusercontent.com/u/130886533?s=200&v=4" /> [Kando](https://github.com/kando-menu/kando) |
 <div align="center">
-<h1>Install</h1>
+<h1>Download + Install</h1>
 </div>
 
-# Download + install
 **Alpha IS NOT REALEASE. not done yet**
 
 **1.** Install dependencies | Arch (pacman + yay)
