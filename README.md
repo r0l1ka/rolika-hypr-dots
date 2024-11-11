@@ -85,6 +85,6 @@ photos
 
 <div align="center">
   
-[About config]() | [About author](https://t.me/rolika_bio)
+[About config](https://github.com/r0l1ka/rolika-hypr-dots/blob/main/visual/aboutconfig.md) | [About author](https://t.me/rolika_bio)
 
 </div>
