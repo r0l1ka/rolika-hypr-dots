@@ -45,7 +45,7 @@
 
 <div align="left">
 
-<h2>Script</h2>
+<h3>Script</h3>
 
 </div>
 
@@ -58,7 +58,7 @@ See [script](https://github.com/r0l1ka/rolika-hypr-dots/tree/main/script)
 
 <div align="left">
 
-<h2>Manual (not recommended)</h2>
+<h3>Manual (not recommended)</h3>
 
 </div>
 
