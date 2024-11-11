@@ -35,7 +35,11 @@
 **IN ALPHA. not done yet**
 
 
+<div align="center">
+
 <h2>Script</h2>
+
+</div>
 
 ```
 No auto download + set and install script for now.
@@ -44,7 +48,11 @@ No auto download + set and install script for now.
 See [script]()
 
 
+<div align="center">
+
 <h2>Manual (not recommended)</h2>
+
+</div>
 
 **1.** Install dependencies | Arch (pacman + yay)
 ```
