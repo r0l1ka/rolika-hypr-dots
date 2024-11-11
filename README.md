@@ -34,6 +34,9 @@
 
 **IN ALPHA. not done yet**
 
+**I recommend using the newly installed arch**
+
+
 
 <div align="right">
 
