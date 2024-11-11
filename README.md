@@ -89,8 +89,8 @@ cd ..; rm -r v.dots  # !! Dont copy this line if you want have copy of config !!
 ![hypr sidebar (Internet - Wi-Fi) Copy 2@1x](https://github.com/user-attachments/assets/612f692e-f135-420a-8c6d-0a4adf921eba)
 ![hypr sidebar (Bluetooth)@1x](https://github.com/user-attachments/assets/4a524289-5903-4b36-98c4-7c4f826e4419)
 
-
 </details>
+
 + **rofi config**
 
 <h1>Other</h1>
