@@ -35,7 +35,7 @@
 **IN ALPHA. not done yet**
 
 
-<div align="center">
+<div align="right">
 
 <h2>Script</h2>
 
@@ -48,7 +48,7 @@ No auto download + set and install script for now.
 See [script]()
 
 
-<div align="center">
+<div align="right">
 
 <h2>Manual (not recommended)</h2>
 
