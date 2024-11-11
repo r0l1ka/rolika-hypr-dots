@@ -76,6 +76,23 @@ cd ..; rm -r v.dots  # !! Dont copy this line if you want have copy of config !!
 
 **3.** Go to `~/.config` and set up it manually
 
+
+
+<h1>Preview<h1>
+<details> 
+  <summary>Photos</summary>
+
+
+
+</details>
+
+<details> 
+  <summary>Videos</summary>
+
+
+
+</details>
+
 <h1>To-do list</h1>
 
 **Will be done in release**
