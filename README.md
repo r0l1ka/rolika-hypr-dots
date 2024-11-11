@@ -108,3 +108,100 @@ cd ..; rm -r v.dots  # !! Dont copy this line if you want have copy of config !!
 [About config](https://github.com/r0l1ka/rolika-hypr-dots/blob/main/visual/aboutconfig.md) | [About author](https://t.me/rolika_bio)
 
 </div>
+
+    <!-- Navigation Bar -->
+    <nav class="navbar navbar-expand-lg navbar-dark">
+        <div class="container">
+            <a class="navbar-brand" href="#">Fluorum</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <div class="ml-auto">
+					<a class="btn btn-link btn-support" href="https://discord.gg/bTgtdW78">Support</a>
+                    <button class="btn btn-outline-light btn-buy" onclick="showNotification()">Use now!</button>        
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Menu Section -->
+    <section class="menu">
+        <div class="content">
+            <h1>Fluorum</h1>
+            <p>Provides you with simplification of the game</p>
+            <button class="btn btn-outline-light btn-script" onclick="showNotification()">Use now!</button>
+        </div>
+    </section>
+
+    <!-- Advantages Section -->
+    <div class="advantages-section">
+        <h2 class="section-title">Our Advantages</h2>
+        <div class="advantages-container">
+            <div class="advantage-item">
+                <i class="fas fa-rocket fa-3x mb-3"></i> <!-- Adding an icon -->
+                <h4>Speed</h4>
+                <p>Lightning-fast performance of our services for your convenience.</p>
+            </div>
+            <div class="advantage-item">
+                <i class="fas fa-shield-alt fa-3x mb-3"></i> <!-- Icon -->
+                <h4>Security</h4>
+                <p>Your data is securely protected by advanced encryption technologies.</p>
+            </div>
+            <div class="advantage-item">
+                <i class="fas fa-users fa-3x mb-3"></i> <!-- Icon -->
+                <h4>Support</h4>
+                <p>Our support team is available 24/7 to assist you with any questions.</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- FAQ Section -->
+    <div class="faq-section">
+        <h2 class="section-title">Frequently Asked Questions</h2>
+        <div class="faq-container">
+            <div class="faq-item">
+                <div class="faq-question">
+                    <span>How does our service work?</span>
+                    <i class="fas fa-chevron-down arrow-icon"></i>
+                </div>
+                <div class="faq-answer">
+                    <p>Our service provides fast and secure solutions for data processing with a high level of protection.</p>
+                </div>
+            </div>
+            <div class="faq-item">
+                <div class="faq-question">
+                    <span>What data is protected?</span>
+                    <i class="fas fa-chevron-down arrow-icon"></i>
+                </div>
+                <div class="faq-answer">
+                    <p>All client data, including personal information and financial transactions, is securely protected.</p>
+                </div>
+            </div>
+            <div class="faq-item">
+                <div class="faq-question">
+                    <span>Is there technical support?</span>
+                    <i class="fas fa-chevron-down arrow-icon"></i>
+                </div>
+                <div class="faq-answer">
+                    <p>Yes, our support team is available 24/7 to resolve any of your issues.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <footer>
+        <div class="footer-description">Fluorum</div>
+        <div class="footer-copyright">Copyright &copy; Fluorum</div>
+        <nav class="footer-nav">
+            <a href="#home">Home</a>
+            <a href="https://discord.gg/bTgtdW78">Support</a>
+        </nav>
+    </footer>
+
+	<script src="https://cdn.jsdelivr.net/npm/notyf@3/notyf.min.js"></script>
+    	<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    	<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.10.2/dist/umd/popper.min.js"></script>
+    	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+	<script src="script.js"></script>
