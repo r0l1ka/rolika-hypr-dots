@@ -13,6 +13,7 @@
 
 <h1>Apps used</h1>
 
+<div align="center">
 | Purpose | App | - | Pre-installed | App |
 | ------------ | ------------ | ------------ | ------------ | ------------ |
 | Bar | <img height="14" width="14" src="https://avatars.githubusercontent.com/u/146791241?s=200&v=4" /> [Fabric](https://github.com/Fabric-Development/fabric) |  | Terminal |  <img height="14" width="14" src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Kitty%28Terminal-emulator%29.png" /> [kitty](https://github.com/kovidgoyal/kitty) |
@@ -22,6 +23,7 @@
 | Color picker | <img height="14" width="14" src="https://avatars.githubusercontent.com/u/107882187?s=200&v=4" /> [Hyprpicker](https://github.com/hyprwm/hyprpicker) |  | Text / Code Editor | <img height="14" width="14" src="https://upload.wikimedia.org/wikipedia/commons/0/07/Neovim-mark-flat.svg" /> [Neovim](https://neovim.io) + [Neovide](https://neovide.dev) |
 | Power MGR | <img height="14" width="14" src="https://cdn.simpleicons.org/linux/black" /> [WLogout](https://github.com/ArtsyMacaw/wlogout)  |  |  |  |
 | Pie-Menu | <img height="14" width="14" src="https://avatars.githubusercontent.com/u/130886533?s=200&v=4" /> [Kando](https://github.com/kando-menu/kando) |  |  |  |  |
+</div>
 
 **You can change pre-installed apps in config**
 
