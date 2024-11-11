@@ -69,6 +69,15 @@ cd ..; rm -r v.dots  # !! Dont copy this line if you want have copy of config !!
 
 **3.** Go to `~/.config` and set up it manually
 
+<h1>To-do list</h1>
+
+**Will be done in release**
++ **Bar**
++ **Openable sidebar (with Fabric)** | Concept design >
+
+<details> 
+  <summary>Photos</summary>
+
 ![hypr sidebar@1x](https://github.com/user-attachments/assets/566ec93e-97e2-4f91-9edb-aa0f25ca8c4a)
 ![hypr sidebar copy@1x](https://github.com/user-attachments/assets/7c424335-4981-4002-95c7-55adb3fb4043)
 ![hypr sidebar copy 3@1x](https://github.com/user-attachments/assets/4e53aad3-19ab-4029-b340-6a89787469e5)
@@ -80,17 +89,6 @@ cd ..; rm -r v.dots  # !! Dont copy this line if you want have copy of config !!
 ![hypr sidebar (Internet - Wi-Fi) Copy 2@1x](https://github.com/user-attachments/assets/612f692e-f135-420a-8c6d-0a4adf921eba)
 ![hypr sidebar (Bluetooth)@1x](https://github.com/user-attachments/assets/4a524289-5903-4b36-98c4-7c4f826e4419)
 
-
-<h1>To-do list</h1>
-
-**Will be done in release**
-+ **Bar**
-+ **Openable sidebar (with Fabric)** | Concept design >
-
-<details> 
-  <summary>Photos</summary>
-
-     
 
 </details>
 + **rofi config**
