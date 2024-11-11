@@ -13,76 +13,15 @@
 
 <h1>App used</h1>
 
-<div style="display: flex; justify-content: space-between;">
-  <table style="width: 45%;">
-    <tr>
-      <th>Purpose</th>
-      <th>App</th>
-    </tr>
-    <tr>
-      <td>Bar</td>
-      <td><img height="14" width="14" src="https://avatars.githubusercontent.com/u/146791241?s=200&v=4" /> <a href="https://github.com/Fabric-Development/fabric">Fabric</a></td>
-    </tr>
-    <tr>
-      <td>Notif. center</td>
-      <td><img height="14" width="14" src="https://cdn.simpleicons.org/linux/black" /> <a href="https://github.com/ErikReider/SwayNotificationCenter">SwayNC</a></td>
-    </tr>
-    <tr>
-      <td>Clipboard MGR</td>
-      <td><img height="14" width="14" src="https://cdn.simpleicons.org/linux/black" /> <a href="https://github.com/savedra1/clipse">Clipse</a></td>
-    </tr>
-    <tr>
-      <td>Screenshot MGR</td>
-      <td><img height="14" width="14" src="https://avatars.githubusercontent.com/u/107882187?s=200&v=4" /> <a href="https://github.com/Gustash/Hyprshot">Hyprshot</a></td>
-    </tr>
-    <tr>
-      <td>Color picker</td>
-      <td><img height="14" width="14" src="https://avatars.githubusercontent.com/u/107882187?s=200&v=4" /> <a href="https://github.com/hyprwm/hyprpicker">Hyprpicker</a></td>
-    </tr>
-    <tr>
-      <td>Power MGR</td>
-      <td><img height="14" width="14" src="https://cdn.simpleicons.org/linux/black" /> <a href="https://github.com/ArtsyMacaw/wlogout">WLogout</a></td>
-    </tr>
-    <tr>
-      <td>Pie-Menu</td>
-      <td><img height="14" width="14" src="https://avatars.githubusercontent.com/u/130886533?s=200&v=4" /> <a href="https://github.com/kando-menu/kando">Kando</a></td>
-    </tr>
-  </table>
-
-  <table style="width: 45%;">
-    <tr>
-      <th>Pre-installed</th>
-      <th>App</th>
-    </tr>
-    <tr>
-      <td>Terminal</td>
-      <td><img height="14" width="14" src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Kitty%28Terminal-emulator%29.png" /> <a href="https://github.com/kovidgoyal/kitty">kitty</a></td>
-    </tr>
-    <tr>
-      <td>Browser</td>
-      <td><img height="14" width="14" src="https://www.chromium.org/_assets/icon-chromium-96.png" /> <a href="https://www.chromium.org/getting-involved/download-chromium/">Chromium</a></td>
-    </tr>
-    <tr>
-      <td>File MGR</td>
-      <td><img height="14" width="14" src="https://apps.gnome.org/icons/scalable/org.gnome.Nautilus.svg" /> <a href="https://apps.gnome.org/en/Nautilus/">Nautilus</a></td>
-    </tr>
-    <tr>
-      <td>Online Music MGR</td>
-      <td><img height="14" width="14" src="https://upload.wikimedia.org/wikipedia/commons/7/75/Spotify_icon.png" /> <a href="https://spotify.com">Spotify</a> + <a href="https://spicetify.app">Spicetify</a></td>
-    </tr>
-    <tr>
-      <td>Text / Code Editor</td>
-      <td><img height="14" width="14" src="https://upload.wikimedia.org/wikipedia/commons/0/07/Neovim-mark-flat.svg" /> <a href="https://neovim.io">Neovim</a> + <a href="https://neovide.dev">Neovide</a></td>
-    </tr>
-	    <tr><td></td>
-      <td>
-    </tr>
-	    <tr>
-      <td><img></td>
-      <td></td>
-    </tr>
-  </table>
-</div>
+| Purpose | App | - | Pre-installed | App |
+| ------------ | ------------ | ------------ | ------------ | ------------ |
+| Bar | <img height="14" width="14" src="https://avatars.githubusercontent.com/u/146791241?s=200&v=4" /> [Fabric](https://github.com/Fabric-Development/fabric) |  | Terminal |  <img height="14" width="14" src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Kitty%28Terminal-emulator%29.png" /> [kitty](https://github.com/kovidgoyal/kitty) |
+| Notif. center | <img height="14" width="14" src="https://cdn.simpleicons.org/linux/black" /> [SwayNC](https://github.com/ErikReider/SwayNotificationCenter) |  | Browser | <img height="14" width="14" src="https://www.chromium.org/_assets/icon-chromium-96.png" /> [Chromium](https://www.chromium.org/getting-involved/download-chromium/)  |
+| Clipboard MGR | <img height="14" width="14" src="https://cdn.simpleicons.org/linux/black" /> [Clipse](https://github.com/savedra1/clipse) |  | File MGR | <img height="14" width="14" src="https://apps.gnome.org/icons/scalable/org.gnome.Nautilus.svg" /> [Nautilus](https://apps.gnome.org/en/Nautilus/) |
+| Screenshot MGR | <img height="14" width="14" src="https://avatars.githubusercontent.com/u/107882187?s=200&v=4" /> [Hyprshot](https://github.com/Gustash/Hyprshot) | | Online Music MGR | <img height="14" width="14" src="https://upload.wikimedia.org/wikipedia/commons/7/75/Spotify_icon.png" /> [Spotify](https://spotify.com) +  [Spicitefy](https://spicetify.app) |
+| Color picker | <img height="14" width="14" src="https://avatars.githubusercontent.com/u/107882187?s=200&v=4" /> [Hyprpicker](https://github.com/hyprwm/hyprpicker) |  | Text / Code Editor | <img height="14" width="14" src="https://upload.wikimedia.org/wikipedia/commons/0/07/Neovim-mark-flat.svg" /> [Neovim](https://neovim.io) + [Neovide](https://neovide.dev) |
+| Power MGR | <img height="14" width="14" src="https://cdn.simpleicons.org/linux/black" /> [WLogout](https://github.com/ArtsyMacaw/wlogout)  |  |  |  |
+| Pie-Menu | <img height="14" width="14" src="https://avatars.githubusercontent.com/u/130886533?s=200&v=4" /> [Kando](https://github.com/kando-menu/kando) |  |  |  |  |
 
 **You can change pre-installed apps in config**
 
