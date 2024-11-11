@@ -78,7 +78,7 @@ cd ..; rm -r v.dots  # !! Dont copy this line if you want have copy of config !!
 
 
 
-<h1>Preview<h1>
+<h1>Preview</h1>
 <details> 
   <summary>Photos</summary>
 
