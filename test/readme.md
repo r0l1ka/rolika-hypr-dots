@@ -5,7 +5,8 @@
 </div>
 
 ```
-No auto download + set and install script for now.
+git clone https://github.com/r0l1ka/rolika-hypr-dots/blob/main/script/1%20-%20dependencies
+./1\ \-\dependencies
 ```
 
 See [script](https://github.com/r0l1ka/rolika-hypr-dots/tree/main/script)
