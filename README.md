@@ -85,6 +85,6 @@ photos
 
 <div align="center">
   
-[About config]() | [About author]()
+[About config]() | [About author](https://t.me/rolika_bio)
 
 </div>
