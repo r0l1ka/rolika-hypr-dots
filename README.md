@@ -61,7 +61,7 @@ See [script](https://github.com/r0l1ka/rolika-hypr-dots/tree/main/install-script
 
 **1.** Install dependencies | Arch (pacman + yay)
 ```
-sudo pacman -S hyprland kitty chromium spotify nautilus swaync wlogout hyprshot hyprpicker nvim neovide
+sudo pacman -S hyprland kitty chromium spotify nautilus swaync wlogout hyprshot hyprpicker nvim neovide zsh
 yay -S latr
 ```
 
