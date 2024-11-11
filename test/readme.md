@@ -5,8 +5,8 @@
 </div>
 
 ```
-git clone https://github.com/r0l1ka/rolika-hypr-dots/blob/main/script/1%20-%20dependencies
-./1\ \-\dependencies
+cd ~; git clone https://raw.githubusercontent.com/r0l1ka/rolika-hypr-dots/refs/heads/main/install-script/0-getready.sh
+
 ```
 
 See [script](https://github.com/r0l1ka/rolika-hypr-dots/tree/main/script)
