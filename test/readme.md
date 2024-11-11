@@ -10,3 +10,5 @@
 | Power MGR | <img height="14" width="14" src="https://cdn.simpleicons.org/linux/black" /> [WLogout](https://github.com/ArtsyMacaw/wlogout)  |  |  |  |
 | Pie-Menu | <img height="14" width="14" src="https://avatars.githubusercontent.com/u/130886533?s=200&v=4" /> [Kando](https://github.com/kando-menu/kando) |  |  |  |  |
 </div>
+
+**You can change pre-installed apps in config**
