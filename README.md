@@ -11,8 +11,6 @@
 
 ****************************
 
-[I WANNA INSTALL IT. **NOWWW**](https://github.com/r0l1ka/rolika-hypr-dots/blob/main/README.md#download--install)
-
 <h1>Apps used</h1>
 
 <div align="center">
