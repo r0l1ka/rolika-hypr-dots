@@ -39,7 +39,7 @@
 
 **IN ALPHA. not done yet**
 
-**I recommend using the newly installed arch**
+**Recommend use newly installed arch**
 
 
 
