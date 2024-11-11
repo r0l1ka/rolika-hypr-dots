@@ -50,7 +50,7 @@
 No auto download + set and install script for now.
 ```
 
-See [script](https://github.com/r0l1ka/rolika-hypr-dots/tree/main/script)
+See [script](https://github.com/r0l1ka/rolika-hypr-dots/tree/main/install-script)
 
 
 <div align="right">
