@@ -27,7 +27,7 @@
 
 </div>
 
-**You can change pre-installed apps in config**
+**Pre-installed recommended to use, but uou can change pre-installed apps in config**
 
 
 <div>
