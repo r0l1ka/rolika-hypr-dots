@@ -43,7 +43,7 @@
 
 
 
-<div align="right">
+<div align="left">
 
 <h2>Script</h2>
 
@@ -56,7 +56,7 @@ No auto download + set and install script for now.
 See [script](https://github.com/r0l1ka/rolika-hypr-dots/tree/main/script)
 
 
-<div align="right">
+<div align="left">
 
 <h2>Manual (not recommended)</h2>
 
