@@ -5,7 +5,7 @@
 </div>
 
 ```
-cd ~; git clone https://raw.githubusercontent.com/r0l1ka/rolika-hypr-dots/refs/heads/main/install-script/0-getready.sh
+cd ~; curl ...
 
 ```
 
