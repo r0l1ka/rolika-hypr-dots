@@ -120,6 +120,6 @@ cd ..; rm -r v.dots  # !! Dont copy this line if you want have copy of config !!
 
 <div align="center">
   
-[About config](https://github.com/r0l1ka/rolika-hypr-dots/blob/main/visual/aboutconfig.md) | [About author](https://t.me/rolika_bio)
+[About config](https://github.com/r0l1ka/rolika-hypr-dots/blob/main/.visual/aboutconfig.md) | [About author](https://t.me/rolika_bio)
 
 </div>
